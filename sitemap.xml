@@ -1,309 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+    <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming</loc>
 
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>1.00</priority>
-</url>
+    <loc>https://k00122213.github.io/</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/contact.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/contact.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/semesters.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/semesters.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/about.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/about.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/webdev.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/webdev.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/3dgraphics.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/3dgraphics.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/databases.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/databases.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/interactive.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/interactive.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/webprog1.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/webprog1.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/webprog2.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/webprog2.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/human.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/human.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/project.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/project.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/webtech.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/webtech.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/video.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/video.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/placement.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+    <loc>https://k00122213.github.io/placement.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 <url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/interface.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/secrets-of-creative-multimedia-programming/index.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/index.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/about.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/getstarted.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/design.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/contact.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/materials.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/patterns.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/tips.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/WebDevelopment/links.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/register.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/signin.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/index.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/widowpcarticle.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/freegamepcarticle.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/switchart1.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/ps4art2.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/xbox1art2.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/allnews.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/pcarticles.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/ps4articles.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/xbox1articles.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/switcharticles.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/allreviews.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/pcreviews.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/consolereviews.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/videos.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/contact.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/sitemap.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/ps4art1.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/xbox1art1.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/switchart2.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://k00122213.github.io/yourgamingnews/pcreview1.html</loc>
-  <lastmod>2017-04-10T13:44:29+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.41</priority>
-</url>
+    <loc>https://k00122213.github.io/interface.html</loc>
+
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
 </urlset>
